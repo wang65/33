@@ -3,8 +3,6 @@
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 group-title="🌙月光宝盒",CCTV2高清
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 group-title="🌙月光宝盒",CCTV3高清
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1 group-title="🌙月光宝盒",CCTV4高清
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 #EXTINF:-1 group-title="🌙月光宝盒",CCTV5高清
@@ -397,32 +395,20 @@ http://api2.52tb.xyz/info?id=19&token=20230326xflvzc
 http://60.223.255.188:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV2
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",CCTV3
-http://60.223.255.188:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",CCTV4
-http://60.223.255.188:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV2
 http://60.223.255.188:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV5
 http://60.223.255.188:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV7
 http://60.223.255.188:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",CCTV8
-http://60.223.255.188:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",CCTV9
-http://60.223.255.188:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV9
 http://60.223.255.188:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV11
 http://60.223.255.188:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV12
 http://60.223.255.188:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",CCTV13
-http://60.223.255.188:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV6
 http://60.223.255.188:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",CCTV14
-http://60.223.255.188:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV15
 http://60.223.255.188:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",浙江卫视
@@ -435,42 +421,24 @@ http://60.223.255.188:9901/tsfile/live/0122_1.m3u8
 http://60.223.255.188:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",天津卫视
 http://60.223.255.188:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",东方卫视
-http://60.223.255.188:9901/tsfile/live/0133_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",重庆卫视
-http://60.223.255.188:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",深圳卫视
 http://60.223.255.188:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",广东卫视
 http://60.223.255.188:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",辽宁卫视
 http://60.223.255.188:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",黑龙江卫视
-http://60.223.255.188:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",陕西卫视
-http://60.223.255.188:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",东南卫视
-http://60.223.255.188:9901/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",湖北卫视
 http://60.223.255.188:9901/tsfile/live/0132_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",山西卫视
 http://60.223.255.188:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",四川卫视
-http://60.223.255.188:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",江西卫视
 http://60.223.255.188:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",河北卫视
-http://60.223.255.188:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",吉林卫视
 http://60.223.255.188:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",广西卫视
 http://60.223.255.188:9901/tsfile/live/0113_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",内蒙古卫视
-http://60.223.255.188:9901/tsfile/live/0109_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",贵州卫视
 http://60.223.255.188:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1 group-title="💚ipv6央视",海南卫视
-http://60.223.255.188:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="💚ipv6央视",CCTV13
@@ -1455,8 +1423,6 @@ http://api2.52tb.xyz/info?id=607&token=20230218htjgzi
 http://60.255.120.30:89/live1/live1.m3u8
 #EXTINF:-1 group-title="四川",大竹阳光政务
 http://60.255.120.30:89/live2/live2.m3u8
-#EXTINF:-1 group-title="四川",德阳新闻综合
-http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 #EXTINF:-1 group-title="四川",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1 group-title="四川",黑水新闻综合
@@ -1531,10 +1497,6 @@ http://channellive.leshantv.net/live/ch2.flv?zsicd
 http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川",凉山语
 http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="四川",德阳新闻综合
-http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="四川",德阳公共
-http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川",攀枝花新闻综合
 http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
 #EXTINF:-1 group-title="四川",攀枝花公共
@@ -1711,10 +1673,6 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 group-title="福建",厦门第一
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
-#EXTINF:-1 group-title="福建",武夷山综合
-http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-#EXTINF:-1 group-title="福建",武夷山文旅茶
-http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 #EXTINF:-1 group-title="福建",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8
 #EXTINF:-1 group-title="福建",漳州新闻
@@ -1799,8 +1757,6 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",望都综合频道
 https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
-#EXTINF:-1 group-title="河北",兴隆影视频道
-https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",兴隆综合频道
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",石家庄新闻综合
@@ -1837,8 +1793,6 @@ http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 #EXTINF:-1 group-title="云南",云南国际
 http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
-#EXTINF:-1 group-title="云南",保山三套
-http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-551c30f245abc8aa44554820452c332c
 #EXTINF:-1 group-title="云南",福贡综合
 http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
 #EXTINF:-1 group-title="云南",麻栗坡
@@ -2778,8 +2732,6 @@ http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://fangke.blueswords.com:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://livelyws.chinamcache.com/lyws/zb01.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
@@ -3279,34 +3231,10 @@ https://ukzy.ukubf4.com/20220407/jEakalqL/index.m3u8
 https://hnzy.bfvvs.com/play/1aKrOKGe/index.m3u8
 #EXTINF:-1 group-title="🍎YY直播",[ 经典] 鹿鼎记
 https://live.metshop.top/yy/1355526531
-#EXTINF:-1 group-title="🍎YY直播",《安家》
-https://live.metshop.top/yy/12086226
-#EXTINF:-1 group-title="🍎YY直播",《神雕侠侣》黯然销魂
-https://live.metshop.top/yy/1394000563
-#EXTINF:-1 group-title="🍎YY直播",《石敢当》六耳猕猴
-https://live.metshop.top/yy/1394156613
-#EXTINF:-1 group-title="🍎YY直播",《仙侠》开局无敌了
-https://live.metshop.top/yy/29600150
-#EXTINF:-1 group-title="🍎YY直播",《一剑开天门》
-https://live.metshop.top/yy/34313906
-#EXTINF:-1 group-title="🍎YY直播",【B82】晨晨
-https://live.metshop.top/yy/1355733616
-#EXTINF:-1 group-title="🐆🐅虎牙",【Shroud】
-https://live.metshop.top/huya/593575
-#EXTINF:-1 group-title="🍎YY直播",【爱靓】虎子鬼片
-https://live.metshop.top/yy/1356075628
-#EXTINF:-1 group-title="🍎YY直播",【案发现场】1-4部全集
-https://live.metshop.top/yy/33567888
 #EXTINF:-1 group-title="🍎YY直播",【成龙经典】动作
 https://live.metshop.top/yy/34460526
-#EXTINF:-1 group-title="🍎YY直播",【炊事班的故事】下饭剧
-https://live.metshop.top/yy/1382656457
 #EXTINF:-1 group-title="🍎YY直播",【盜暮笔记】24h
 https://live.metshop.top/yy/1382702247
-#EXTINF:-1 group-title="🍎YY直播",【电视剧】天下第一
-https://live.metshop.top/yy/1354780649
-#EXTINF:-1 group-title="🍎YY直播",【电影】超然巨作
-https://live.metshop.top/yy/26623173
 #EXTINF:-1 group-title="🍎YY直播",【电影】顶级动作电影
 https://live.metshop.top/yy/24923327
 #EXTINF:-1 group-title="🍎YY直播",【动漫】斗罗斗破
@@ -3319,32 +3247,14 @@ https://live.metshop.top/yy/28796627
 https://live.metshop.top/yy/1382689904
 #EXTINF:-1 group-title="🍎YY直播",【赌神片 动作片 港片】
 https://live.metshop.top/yy/1355112116
-#EXTINF:-1 group-title="🍎YY直播",【二炮手】孙红雷
-https://live.metshop.top/yy/1354330324
-#EXTINF:-1 group-title="🐆🐅虎牙",【封心鎖愛】
-https://live.metshop.top/huya/10105271
 #EXTINF:-1 group-title="🍎YY直播",【港片】赌片 动作
 https://live.metshop.top/yy/24921161
-#EXTINF:-1 group-title="🍎YY直播",【港台】鬼片 惊悚 喜剧
-https://live.metshop.top/yy/1351030377
-#EXTINF:-1 group-title="🐆🐅虎牙",【鬼片】虎牙陪看
-https://live.metshop.top/huya/19383295
-#EXTINF:-1 group-title="🍎YY直播",【红球】不扯蛋
-https://live.metshop.top/yy/1355084841
-#EXTINF:-1 group-title="🍎YY直播",【荒野求生】德爷 贝爷
-https://live.metshop.top/yy/39123221
-#EXTINF:-1 group-title="🍎YY直播",【火蓝刀锋】臭鱼
-https://live.metshop.top/yy/1354784966
-#EXTINF:-1 group-title="🍎YY直播",【济公】游本昌
-https://live.metshop.top/yy/25519088
 #EXTINF:-1 group-title="🍎YY直播",【经典港片】佟瑶
 https://live.metshop.top/yy/23531261
 #EXTINF:-1 group-title="🍎YY直播",【科幻】超炫特效
 https://live.metshop.top/yy/37988782
 #EXTINF:-1 group-title="🍎YY直播",【狂飙】4K
 https://live.metshop.top/yy/1382773728
-#EXTINF:-1 group-title="🍎YY直播",【老九门】首播
-https://live.metshop.top/yy/1353877164
 #EXTINF:-1 group-title="🍎YY直播",【老九门】探险电视剧
 https://live.metshop.top/yy/1355336008
 #EXTINF:-1 group-title="🐆🐅虎牙",【林正英】虎牙陪看
@@ -3491,8 +3401,6 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.64:8124
 https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 #EXTINF:-1 group-title="央视IPV6",CCTV13
 https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1 group-title="央视",CCTV13
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
 http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
@@ -3781,8 +3689,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WqM6xnF.png",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:-1 group-title="🐆🐅虎牙",Eric次元宝贝
-https://live.metshop.top/huya/21059552
 #EXTINF:-1 group-title="🐆🐅虎牙",fromis9-SAEROM
 https://live.metshop.top/huya/691255
 #EXTINF:-1 group-title="🐟斗鱼",Fy丶不乖
@@ -3885,8 +3791,6 @@ https://live.metshop.top/douyu/1046540
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 group-title="🍎YY直播",X战警系列电影
 https://live.metshop.top/yy/1382736893
-#EXTINF:-1 group-title="🐆🐅虎牙",yoo
-https://live.metshop.top/huya/11352876
 #EXTINF:-1 group-title="🐟斗鱼",yue00月儿
 https://live.metshop.top/douyu/10672106
 #EXTINF:-1 group-title="🍎YY直播",YY恐怖电影
@@ -3897,8 +3801,6 @@ https://live.metshop.top/huya/28938339
 https://live.metshop.top/huya/16868935
 #EXTINF:-1 group-title="🐆🐅虎牙",阿呀呀阿sir
 https://live.metshop.top/huya/23865171
-#EXTINF:-1 group-title="🐆🐅虎牙",艾薇宝贝de宝贝
-https://live.metshop.top/huya/21059554
 #EXTINF:-1 group-title="🍎YY直播",爱宝鬼片 陪你丫丫
 https://live.metshop.top/yy/1356072278
 #EXTINF:-1 group-title="🍎YY直播",爱的迫降-韩剧
@@ -3907,8 +3809,6 @@ https://live.metshop.top/yy/1354889042
 https://live.metshop.top/yy/1351998401
 #EXTINF:-1 group-title="🐟斗鱼",爱情公寓CP贤菲
 https://live.metshop.top/douyu/9638983
-#EXTINF:-1 group-title="🐟斗鱼",爱情公寓vip006
-https://live.metshop.top/douyu/11404041
 #EXTINF:-1 group-title="🐟斗鱼",爱情公寓回忆录
 https://live.metshop.top/douyu/11528591
 #EXTINF:-1 group-title="🍇  北京IPTV",爱上4K
@@ -4339,8 +4239,6 @@ http://159.75.85.63:35455/douyu/3916618
 https://live.metshop.top/huya/22367382
 #EXTINF:-1 group-title="🐟斗鱼",豆腐芭比
 https://live.metshop.top/douyu/6478650
-#EXTINF:-1 group-title="🐆🐅虎牙",逗比宝宝
-https://live.metshop.top/huya/11342427
 #EXTINF:-1 group-title="🍎YY直播",读心神探
 https://live.metshop.top/yy/1382736875
 #EXTINF:-1 group-title="🍎YY直播",赌神-发哥
@@ -4925,8 +4823,6 @@ http://api3.52tb.xyz/info?id=38&token=20230227aesvnb
 https://live.metshop.top/hbgd.php?id=hainwshd_3000
 #EXTINF:-1 group-title="🍇  北京IPTV",海南卫视
 http://qnap.yjnhome.com:4000/udp/239.3.1.45:8304
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/j6kY8nh.png",海南卫视 (720p) [Not 24/7]
-http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 group-title="🌈百视通",海南卫视 8M
 https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1 group-title="🐟斗鱼",海燕的小资
@@ -4935,138 +4831,6 @@ https://live.metshop.top/douyu/10829665
 https://live.metshop.top/yy/1354930189
 #EXTINF:-1 group-title="🍎YY直播",憨豆先生-经典喜剧
 https://live.metshop.top/yy/1354936239
-#EXTINF:-1 group-title="🐾🦚世界",韩国BBS佛教广播
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8?zshijd
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国DJ Soda Remix 2021 电音
-https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-#EXTINF:-1 group-title="🐾🦚世界",韩国EBS_E频道
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8?zshijd
-#EXTINF:-1 group-title="🐾🦚世界",韩国EBS第二频道
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 group-title="🐾🦚世界",韩国EBS第一频道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="🐾🦚世界",韩国EBS少儿童频道
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团001
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团002
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团003
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团004
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团005
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团006
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团007
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团008
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团009
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团010
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团011
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团012
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团013
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团014
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团015
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团016
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团017
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团018
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团019
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国歌团020
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍02
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍03
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍04
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍05
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍06
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍07
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍08
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍09
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍10
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍11
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍12
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍13
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍14
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍15
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍16
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍17
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍18
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍19
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍20
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍21
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍22
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍23
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍24
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍25
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍26
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍27
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍28
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍29
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍30
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍31
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍32
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍33
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍34
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍35
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍36
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍37
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍38
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍40
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
-#EXTINF:-1 group-title="🍒｜女团太妍",韩国太妍41
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
-#EXTINF:-1 group-title="🐾🦚世界",韩国职业广播
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 #EXTINF:-1 group-title="🍎YY直播",豪哥带我们发财
 https://live.metshop.top/yy/23402146
 #EXTINF:-1 group-title="🐟斗鱼",好号影说
@@ -5203,14 +4967,10 @@ https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 http://qnap.yjnhome.com:4000/udp/239.3.1.132:8012
 #EXTINF:-1 group-title="🌈4K8K",虎牙4K王者荣耀
 http://159.75.85.63:35455/huya/wzgxs1
-#EXTINF:-1 group-title="🐆🐅虎牙",虎牙八点档
-https://live.metshop.top/huya/880261
 #EXTINF:-1 group-title="🌈4K8K",虎牙魔兽世界4K
 http://159.75.85.63:35455/huya/shangdi
 #EXTINF:-1 group-title="🐆🐅虎牙",虎牙影视厅
 https://live.metshop.top/huya/16020072
-#EXTINF:-1 group-title="🐆🐅虎牙",虎牙影院
-https://live.metshop.top/huya/11601968
 #EXTINF:-1 group-title="🌈4K8K",虎牙战地五4K
 http://159.75.85.63:35455/huya/28260962
 #EXTINF:-1 group-title="🍎YY直播",花儿开心吧
@@ -5263,8 +5023,6 @@ https://live.metshop.top/yy/1382736916
 https://live.metshop.top/douyu/10262663
 #EXTINF:-1 group-title="🍎YY直播",换子成龙-影视剧
 https://live.metshop.top/yy/1354932397
-#EXTINF:-1 group-title="🐆🐅虎牙",荒野达人
-https://live.metshop.top/huya/11352975
 #EXTINF:-1 group-title="🍎YY直播",黄大妮-电视剧
 https://live.metshop.top/yy/1354930904
 #EXTINF:-1 group-title="🐆🐅虎牙",黄金屋
@@ -5445,8 +5203,6 @@ https://live.metshop.top/yy/1382828768
 https://live.metshop.top/yy/1354930924
 #EXTINF:-1 group-title="🌈百视通",金色学堂 8M
 https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-#EXTINF:-1 group-title="🐆🐅虎牙",金天影视
-https://live.metshop.top/huya/27309072
 #EXTINF:-1 group-title="🍎YY直播",金星脱口秀：我敢说你敢听吗
 https://live.metshop.top/yy/1382735552
 #EXTINF:-1 group-title="🍎YY直播",金星脱口秀-敢说会道
@@ -5575,8 +5331,6 @@ https://live.metshop.top/hbgd.php?id=kkse_1000
 http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
 #EXTINF:-1 group-title="🌈百视通",卡酷少儿 8M
 https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 group-title="🐆🐅虎牙",开船老湿基
-https://live.metshop.top/huya/11342387
 #EXTINF:-1 group-title="🍎YY直播",开饭了大熊猫
 https://live.metshop.top/yy/1382741641
 #EXTINF:-1 group-title="🍎YY直播",开心俱乐部
@@ -5699,8 +5453,6 @@ https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 http://qnap.yjnhome.com:4000/udp/239.3.1.210:8056
 #EXTINF:-1 group-title="🍎YY直播",聊斋志异S1
 https://live.metshop.top/yy/1382736975
-#EXTINF:-1 group-title="🐆🐅虎牙",林正英
-https://live.metshop.top/huya/11342421
 #EXTINF:-1 group-title="🍎YY直播",林正英 僵尸 鬼片
 https://live.metshop.top/yy/1351505899
 #EXTINF:-1 group-title="🍎YY直播",林正英 经典鬼片
@@ -5763,8 +5515,6 @@ http://119.36.30.199:8888/mctv1.m3u8
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 #EXTINF:-1 group-title="💐💐云南",麻栗坡电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
-#EXTINF:-1 group-title="🐆🐅虎牙",马春夏秋冬梅
-https://live.metshop.top/huya/21059564
 #EXTINF:-1 group-title="🗽四川",马尔康综合
 http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 group-title="🐫新疆",玛纳斯综合
@@ -5877,8 +5627,6 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.72:4120
 https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 group-title="🍎YY直播",萌鸡小队S1-国漫
 https://live.metshop.top/yy/1382736904
-#EXTINF:-1 group-title="🐆🐅虎牙",萌新司机
-https://live.metshop.top/huya/11352881
 #EXTINF:-1 group-title="Undefined",孟州电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 group-title="🐟斗鱼",梦尽310
@@ -6095,8 +5843,6 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.155:4120
 https://live.metshop.top/huya/26355846
 #EXTINF:-1 group-title="🍇  北京IPTV",厦门卫视
 http://qnap.yjnhome.com:4000/udp/239.3.1.143:4120
-#EXTINF:-1 group-title="🍂山东广电",山东教育
-http://lu1.cc/itv/php/migu.php?id=sdjy
 #EXTINF:-1 group-title="🎄湖北GD",山东教育卫视
 https://live.metshop.top/hbgd.php?id=sdjyws_1000
 #EXTINF:-1 group-title="🍇  北京IPTV",山东教育卫视
@@ -6145,24 +5891,8 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="🍎YY直播",烧脑！国外侦探
 https://live.metshop.top/yy/1382735551
-#EXTINF:-1 group-title="🍎YY直播",少年包青天
-https://live.metshop.top/yy/1382651363
-#EXTINF:-1 group-title="🍎YY直播",少年包青天1-3蓝光版
-https://live.metshop.top/yy/38498680
-#EXTINF:-1 group-title="🍎YY直播",少年包青天第三部
-https://live.metshop.top/yy/1382736814
-#EXTINF:-1 group-title="🍎YY直播",少年包青天-蓝光版
-https://live.metshop.top/yy/1456630506
-#EXTINF:-1 group-title="🍎YY直播",少年包青天三
-https://live.metshop.top/yy/61318527
-#EXTINF:-1 group-title="🍎YY直播",舌尖上的中国第2季
-https://live.metshop.top/yy/1354930943
 #EXTINF:-1 group-title="🍎YY直播",舌尖上的中国第一季
 https://live.metshop.top/yy/1354930952
-#EXTINF:-1 group-title="🐆🐅虎牙",舍前棕
-https://live.metshop.top/huya/26355844
-#EXTINF:-1 group-title="🍎YY直播",射雕英雄传之铁血丹心
-https://live.metshop.top/yy/25221556
 #EXTINF:-1 group-title="🍎YY直播",深海利剑
 https://live.metshop.top/yy/1382736906
 #EXTINF:-1 group-title="卫视",深圳卫视
@@ -6181,8 +5911,6 @@ https://live.metshop.top/yy/54886912
 https://live.metshop.top/yy/1382736860
 #EXTINF:-1 group-title="🍎YY直播",神雕侠侣
 https://live.metshop.top/yy/1351762426
-#EXTINF:-1 group-title="🍎YY直播",神探狄仁杰
-https://live.metshop.top/yy/1461133588
 #EXTINF:-1 group-title="🍎YY直播",神探狄仁杰1
 https://live.metshop.top/yy/1354930934
 #EXTINF:-1 group-title="🍎YY直播",神探狄仁杰2
@@ -6199,22 +5927,12 @@ https://live.metshop.top/yy/1382749910
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="🍎YY直播",失忆24小时
 https://live.metshop.top/yy/1382741640
-#EXTINF:-1 group-title="🐟斗鱼",施小賀211
-https://live.metshop.top/douyu/10266445
 #EXTINF:-1 group-title="🍎YY直播",十大经典港剧之《大时代》
 https://live.metshop.top/yy/1354930891
 #EXTINF:-1 group-title="🍇  北京IPTV",时尚购物
 http://qnap.yjnhome.com:4000/udp/239.3.1.181:8001
-#EXTINF:-1 group-title="🍎YY直播",史诗级战争大片
-https://live.metshop.top/yy/1382745092
 #EXTINF:-1 group-title="🍎YY直播",士兵突击
 https://live.metshop.top/yy/1382828766
-#EXTINF:-1 group-title="🐆🐅虎牙",世界格斗场
-https://live.metshop.top/huya/11352969
-#EXTINF:-1 group-title="🐆🐅虎牙",是青哥
-https://live.metshop.top/huya/24875819
-#EXTINF:-1 group-title="🐟斗鱼",是云宝呢
-https://live.metshop.top/douyu/7305938
 #EXTINF:-1 group-title="🍎YY直播",守望的天空
 https://live.metshop.top/yy/1382736843
 #EXTINF:-1 group-title="🍎YY直播",摔跤吧爸爸！院线大片
@@ -6223,8 +5941,6 @@ https://live.metshop.top/yy/1382736851
 http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
 #EXTINF:-1 group-title="🍎YY直播",顺娘-影视剧
 https://live.metshop.top/yy/1354930945
-#EXTINF:-1 group-title="🐆🐅虎牙",瞬间爆炸
-https://live.metshop.top/huya/11352960
 #EXTINF:-1 group-title="卫视",四川卫视
 http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="🎄湖北GD",四川卫视
@@ -6237,8 +5953,6 @@ https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 https://live.metshop.top/huya/11602058
 #EXTINF:-1 group-title="⛱️河南",嵩县综合新闻
 http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
-#EXTINF:-1 group-title="🐆🐅虎牙",宋少宝
-https://live.metshop.top/huya/16923449
 #EXTINF:-1 group-title="🍎YY直播",宋小宝春晚小品合集
 https://live.metshop.top/yy/1382736866
 #EXTINF:-1 group-title="🍎YY直播",宋小宝小品合集
@@ -6251,8 +5965,6 @@ https://live.metshop.top/yy/1382749892
 https://live.metshop.top/yy/1354926542
 #EXTINF:-1 group-title="💐💐云南",绥江综合
 http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
-#EXTINF:-1 group-title="🍎YY直播",隋唐演义
-https://live.metshop.top/yy/69968263
 #EXTINF:-1 group-title="🍎YY直播",隋唐英雄传 蓝光
 https://live.metshop.top/yy/1352475619
 #EXTINF:-1 group-title="🍇  北京IPTV",台球
@@ -6273,18 +5985,12 @@ https://live.metshop.top/yy/1354888747
 http://live.strmtzx.cn/stzy/sd/live.m3u8?zguizd
 #EXTINF:-1 group-title="🌈百视通",陶瓷高清 8M
 https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-#EXTINF:-1 group-title="🐟斗鱼",淘淘影剧
-https://live.metshop.top/douyu/11645921
 #EXTINF:-1 group-title="🍎YY直播",特种兵归来-国产电影
 https://live.metshop.top/yy/1382735581
-#EXTINF:-1 group-title="🍎YY直播",特种兵之霹雳火，剧版战狼
-https://live.metshop.top/yy/1356047090
 #EXTINF:-1 group-title="🍎YY直播",体验另一种生活！
 https://live.metshop.top/yy/1354936229
 #EXTINF:-1 group-title="🍇  北京IPTV",体育赛事高清
 http://qnap.yjnhome.com:4000/udp/239.3.1.157:8176
-#EXTINF:-1 group-title="🐆🐅虎牙",天地間香芒
-https://live.metshop.top/huya/26355800
 #EXTINF:-1 group-title="卫视",天津卫视
 http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 group-title="🎄湖北GD",天津卫视
@@ -6304,8 +6010,6 @@ https://live.metshop.top/yy/1355652820
 #EXTINF:-1 group-title="🍎YY直播",天龙神雕经典回忆
 https://live.metshop.top/yy/68260522
 #EXTINF:-1 group-title="🍎YY直播",天下第一
-https://live.metshop.top/yy/1355554637
-#EXTINF:-1 group-title="🍎YY直播",天下第一
 https://live.metshop.top/yy/1382736838
 #EXTINF:-1 group-title="🍎YY直播",田园生活
 https://live.metshop.top/yy/1382736898
@@ -6321,8 +6025,6 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.221:8001
 http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?zhend
 #EXTINF:-1 group-title="🐟斗鱼",偷偷的爱你
 https://live.metshop.top/douyu/11251199
-#EXTINF:-1 group-title="🐆🐅虎牙",偷心大盗ヽ龍宝
-https://live.metshop.top/huya/11342386
 #EXTINF:-1 group-title="🐂内蒙古",突泉综合
 http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live163886991032759.m3u8?zneimd
 #EXTINF:-1 group-title="🍎YY直播",吐槽大会 第1季
@@ -6375,8 +6077,6 @@ https://live.metshop.top/huya/795142
 https://live.metshop.top/yy/89431014
 #EXTINF:-1 group-title="Undefined",唯心電視 (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="🐆🐅虎牙",蓶1淳爷
-https://live.metshop.top/huya/11336719
 #EXTINF:-1 group-title="🍎YY直播",伪装者
 https://live.metshop.top/yy/1354936244
 #EXTINF:-1 group-title="⛱️河南",卫辉综合频道
@@ -6425,8 +6125,6 @@ https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="🍎YY直播",武工队传奇
 https://live.metshop.top/yy/1354790484
-#EXTINF:-1 group-title="🐆🐅虎牙",武林萌主唐小姐
-https://live.metshop.top/huya/11336726
 #EXTINF:-1 group-title="🍎YY直播",武林外传
 https://live.metshop.top/yy/1353852605
 #EXTINF:-1 group-title="🍎YY直播",武林外传爆笑全场
@@ -6495,10 +6193,6 @@ https://live.metshop.top/yy/1354932379
 https://live.metshop.top/yy/1453996620
 #EXTINF:-1 group-title="🍎YY直播",香港动作大片
 https://live.metshop.top/yy/1382736816
-#EXTINF:-1 group-title="🐆🐅虎牙",香港喜剧大全
-https://live.metshop.top/huya/23865080
-#EXTINF:-1 group-title="🐆🐅虎牙",鄉8佬
-https://live.metshop.top/huya/11352920
 #EXTINF:-1 group-title="⛰️山西",襄汾综合
 http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
 #EXTINF:-1 group-title="⛰️山西",襄垣电视
@@ -6529,10 +6223,6 @@ https://live.metshop.top/yy/1382658790
 https://live.metshop.top/yy/1354936181
 #EXTINF:-1 group-title="🍎YY直播",小小飞虎队
 https://live.metshop.top/yy/1382749888
-#EXTINF:-1 group-title="🐆🐅虎牙",小轩
-https://live.metshop.top/huya/11352899
-#EXTINF:-1 group-title="🐆🐅虎牙",小妖孽
-https://live.metshop.top/huya/11602088
 #EXTINF:-1 group-title="🍎YY直播",笑傲帮
 https://live.metshop.top/yy/1382735555
 #EXTINF:-1 group-title="🍎YY直播",笑傲江湖 4K超清
@@ -6689,8 +6379,6 @@ https://live.metshop.top/yy/26958525
 https://live.metshop.top/huya/17000197
 #EXTINF:-1 group-title="🍎YY直播",一起合租的快乐生活~
 https://live.metshop.top/yy/38525272
-#EXTINF:-1 group-title="🐆🐅虎牙",一起来埋堆
-https://live.metshop.top/huya/23734183
 #EXTINF:-1 group-title="🍎YY直播",一起来笑吧
 https://live.metshop.top/yy/1454859415
 #EXTINF:-1 group-title="🐉黑龙江",伊春公共
@@ -6719,8 +6407,6 @@ https://live.metshop.top/yy/1354931498
 http://live.aiyicheng.com.cn/channel1/sd/live.m3u8?zshanxd
 #EXTINF:-1 group-title="🍇  北京IPTV",音乐现场
 http://qnap.yjnhome.com:4000/udp/239.3.1.70:4120
-#EXTINF:-1 group-title="🐆🐅虎牙",音粤无国界
-https://live.metshop.top/huya/23734256
 #EXTINF:-1 group-title="🍎YY直播",银河护卫队-国外科幻巨作
 https://live.metshop.top/yy/1382736815
 #EXTINF:-1 group-title="🍎YY直播",英叔僵尸 3000部
@@ -6907,8 +6593,6 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.122:8160
 https://live.metshop.top/yy/1354936124
 #EXTINF:-1 group-title="🍃🍃甘肃",舟曲新闻
 http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
-#EXTINF:-1 group-title="🐆🐅虎牙",周星驰
-https://live.metshop.top/huya/11342412
 #EXTINF:-1 group-title="🍎YY直播",朱元璋电视剧
 https://live.metshop.top/yy/1382765235
 #EXTINF:-1 group-title="🐆🐅虎牙",猪猪妹说电影
@@ -6939,3 +6623,169 @@ https://live.metshop.top/yy/1382779528
 https://live.metshop.top/yy/1382745116
 #EXTINF:-1 group-title="🐆🐅虎牙",左手的扑克v
 https://live.metshop.top/huya/24577218
+#EXTINF:-1 group-title="电视综合" tvg-logo="https://live.fanmingming.com/tv/香港卫视HKS.png",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV东北热剧.png",NewTV东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV中国功夫.png",NewTV中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV军事评论.png",NewTV军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV军旅剧场.png",NewTV军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV农业致富.png",NewTV农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png",NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV家庭剧场.png",NewTV家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV怡伴健康.png",NewTV怡伴健康
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png",NewTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV明星大片.png",NewTV明星大片
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV欢乐剧场.png",NewTV欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV武搏世界.png",NewTV武搏世界
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV海外剧场.png",NewTV海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV潮妈辣婆.png",NewTV潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV爱情喜剧.png",NewTV爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV精品大剧.png",NewTV精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV精品纪录.png",NewTV精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV精品体育.png",NewTV精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV超级体育.png",NewTV超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电影.png",NewTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV超级电视剧.png",NewTV超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV超级综艺.png",NewTV超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV金牌综艺.png",NewTV金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="NewTV频道" tvg-logo="https://live.fanmingming.com/tv/NewTV精品萌宠.png",NewTV精品萌宠
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 group-title="超清台" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="超清台" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
+http://r.jdshipin.com/krMB5
+#EXTINF:-1 group-title="超清台" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
+http://www.terrykang.cn:5678/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 group-title="超清台" tvg-logo="https://live.fanmingming.com/tv/斗鱼4K影院.png",斗鱼4K影院
+http://159.75.85.63:35455/douyu/9249162
+#EXTINF:-1 group-title="超清台" tvg-logo="https://live.fanmingming.com/tv/咪咕体育4K-1.png",咪咕体育4K-1
+http://r.jdshipin.com/ln4xk
+#EXTINF:-1 group-title="蓝光台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+http://39.134.65.141/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="蓝光台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+http://39.134.65.142/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="蓝光台" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+http://39.134.65.141/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="蓝光台" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+http://39.134.65.142/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png",峨眉电影
+http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/电影1.png",电影1
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/电影2.png",电影2
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/超级电影.png",超级电影
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/中国功夫.png",中国功夫
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/超级电视剧.png",超级电视剧
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png",军旅剧场
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/军事评论.png",军事评论
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="影视台" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+http://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 group-title="JPTV" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+http://39.134.65.173/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 group-title="JPTV" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png",中国教育4
+http://39.134.65.175/PLTV/88888888/224/3221225750/1.m3u8
+#EXTINF:-1 group-title="JPTV" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png",中国教育4
+http://39.134.65.179/PLTV/88888888/224/3221225750/1.m3u8
+#EXTINF:-1 group-title="JPTV" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/北京科教.png",北京科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png",上海纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔滨.png",齐齐哈尔滨
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔2.png",齐齐哈尔2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/佳木斯.png",佳木斯
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/大庆新闻.png",大庆新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/大庆公共.png",大庆公共
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png",古装剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/炫舞未来.png",炫舞未来
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频2.png",咪咕视频2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频3.png",咪咕视频3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频4.png",咪咕视频4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="龙江移动4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频5.png",咪咕视频5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🌸陕西ipv6" tvg-logo="https://live.fanmingming.com/tv/百视通体育720.png",百视通体育720
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
+#EXTINF:-1 group-title="💚ipv6央视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+http://60.223.255.188:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="💚ipv6央视" tvg-logo="https://live.fanmingming.com/tv/太原-1.png",太原-1
+http://60.223.255.188:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="陕西" tvg-logo="https://live.fanmingming.com/tv/武功二套.png",武功二套
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225987/index.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://live.fanmingming.com/tv/深圳东部.png",深圳东部
+https://lglivepull.sznews.com/live/2646.m3u8?zguangd
+#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/铜山三农.png",铜山三农
+http://stream.tstvxmt.com/ts2/sd/live.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/盐都综合频道.png",盐都综合频道
+http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
+#EXTINF:-1 group-title="北京" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/栾川新闻.png",栾川新闻
+http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/洛宁综合.png",洛宁综合
+http://wshls.live.migucloud.com/live/WJ1E4VDQ_C0/playlist.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/嵩县综合新闻.png",嵩县综合新闻
+http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/偃师新闻.png",偃师新闻
+http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
+#EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/嵩县综合新闻.png",嵩县综合新闻
+http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
+#EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/偃师新闻频道.png",偃师新闻频道
+http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
+#EXTINF:-1 group-title="河北" tvg-logo="https://live.fanmingming.com/tv/涞水新闻频道.png",涞水新闻频道
+https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
